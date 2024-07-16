@@ -1,0 +1,3000 @@
+Fri Jul 12 15:05:01 UTC 2024
+rtx3060:19
+rtx3070:11
+rtx3080:11
+rtx3090:1
+rx6700:5
+Fri Jul 12 15:06:01 UTC 2024
+rtx3060:3
+rtx3070:16
+rtx3080:16
+rtx3090:16
+rx6700:20
+Fri Jul 12 15:07:01 UTC 2024
+rtx3060:5
+rtx3070:19
+rtx3080:19
+rtx3090:16
+rx6700:2
+Fri Jul 12 15:08:01 UTC 2024
+rtx3060:15
+rtx3070:17
+rtx3080:17
+rtx3090:17
+rx6700:2
+Fri Jul 12 15:09:01 UTC 2024
+rtx3060:15
+rtx3070:12
+rtx3080:12
+rtx3090:19
+rx6700:20
+Fri Jul 12 15:10:01 UTC 2024
+rtx3060:19
+rtx3070:3
+rtx3080:3
+rtx3090:9
+rx6700:0
+Fri Jul 12 15:11:01 UTC 2024
+rtx3060:8
+rtx3070:9
+rtx3080:9
+rtx3090:8
+rx6700:11
+Fri Jul 12 15:12:01 UTC 2024
+rtx3060:20
+rtx3070:19
+rtx3080:19
+rtx3090:4
+rx6700:0
+Fri Jul 12 15:13:01 UTC 2024
+rtx3060:5
+rtx3070:6
+rtx3080:6
+rtx3090:3
+rx6700:18
+Fri Jul 12 15:14:01 UTC 2024
+rtx3060:14
+rtx3070:12
+rtx3080:12
+rtx3090:10
+rx6700:20
+Fri Jul 12 15:15:01 UTC 2024
+rtx3060:8
+rtx3070:19
+rtx3080:19
+rtx3090:10
+rx6700:6
+Fri Jul 12 15:16:01 UTC 2024
+rtx3060:15
+rtx3070:13
+rtx3080:13
+rtx3090:7
+rx6700:7
+Fri Jul 12 15:17:01 UTC 2024
+rtx3060:3
+rtx3070:5
+rtx3080:5
+rtx3090:9
+rx6700:18
+Fri Jul 12 15:18:01 UTC 2024
+rtx3060:14
+rtx3070:16
+rtx3080:16
+rtx3090:14
+rx6700:8
+Fri Jul 12 15:19:01 UTC 2024
+rtx3060:20
+rtx3070:9
+rtx3080:9
+rtx3090:11
+rx6700:7
+Fri Jul 12 15:20:01 UTC 2024
+rtx3060:16
+rtx3070:11
+rtx3080:11
+rtx3090:20
+rx6700:11
+Fri Jul 12 15:21:01 UTC 2024
+rtx3060:5
+rtx3070:4
+rtx3080:4
+rtx3090:6
+rx6700:12
+Fri Jul 12 15:22:01 UTC 2024
+rtx3060:14
+rtx3070:18
+rtx3080:18
+rtx3090:0
+rx6700:6
+Fri Jul 12 15:23:01 UTC 2024
+rtx3060:4
+rtx3070:8
+rtx3080:8
+rtx3090:8
+rx6700:10
+Fri Jul 12 15:24:01 UTC 2024
+rtx3060:15
+rtx3070:8
+rtx3080:8
+rtx3090:18
+rx6700:13
+Fri Jul 12 15:25:01 UTC 2024
+rtx3060:15
+rtx3070:19
+rtx3080:19
+rtx3090:4
+rx6700:15
+Fri Jul 12 15:26:01 UTC 2024
+rtx3060:17
+rtx3070:13
+rtx3080:13
+rtx3090:2
+rx6700:3
+Fri Jul 12 15:27:01 UTC 2024
+rtx3060:13
+rtx3070:6
+rtx3080:6
+rtx3090:4
+rx6700:3
+Fri Jul 12 15:28:01 UTC 2024
+rtx3060:17
+rtx3070:9
+rtx3080:9
+rtx3090:13
+rx6700:3
+Fri Jul 12 15:29:01 UTC 2024
+rtx3060:3
+rtx3070:14
+rtx3080:14
+rtx3090:4
+rx6700:7
+Fri Jul 12 15:30:01 UTC 2024
+rtx3060:0
+rtx3070:14
+rtx3080:14
+rtx3090:10
+rx6700:13
+Fri Jul 12 15:31:01 UTC 2024
+rtx3060:0
+rtx3070:6
+rtx3080:6
+rtx3090:19
+rx6700:5
+Fri Jul 12 15:32:01 UTC 2024
+rtx3060:11
+rtx3070:3
+rtx3080:3
+rtx3090:20
+rx6700:6
+Fri Jul 12 15:33:01 UTC 2024
+rtx3060:5
+rtx3070:8
+rtx3080:8
+rtx3090:4
+rx6700:3
+Fri Jul 12 15:34:01 UTC 2024
+rtx3060:7
+rtx3070:17
+rtx3080:17
+rtx3090:20
+rx6700:16
+Fri Jul 12 15:35:01 UTC 2024
+rtx3060:13
+rtx3070:12
+rtx3080:12
+rtx3090:13
+rx6700:5
+Fri Jul 12 15:36:01 UTC 2024
+rtx3060:11
+rtx3070:16
+rtx3080:16
+rtx3090:8
+rx6700:18
+Fri Jul 12 15:37:01 UTC 2024
+rtx3060:19
+rtx3070:14
+rtx3080:14
+rtx3090:10
+rx6700:7
+Fri Jul 12 15:38:01 UTC 2024
+rtx3060:0
+rtx3070:1
+rtx3080:1
+rtx3090:12
+rx6700:4
+Fri Jul 12 15:39:01 UTC 2024
+rtx3060:3
+rtx3070:0
+rtx3080:0
+rtx3090:8
+rx6700:13
+Fri Jul 12 15:40:01 UTC 2024
+rtx3060:2
+rtx3070:7
+rtx3080:7
+rtx3090:19
+rx6700:0
+Fri Jul 12 15:41:01 UTC 2024
+rtx3060:9
+rtx3070:16
+rtx3080:16
+rtx3090:5
+rx6700:15
+Fri Jul 12 15:42:01 UTC 2024
+rtx3060:7
+rtx3070:0
+rtx3080:0
+rtx3090:8
+rx6700:15
+Fri Jul 12 15:43:01 UTC 2024
+rtx3060:17
+rtx3070:3
+rtx3080:3
+rtx3090:5
+rx6700:5
+Fri Jul 12 15:44:01 UTC 2024
+rtx3060:4
+rtx3070:6
+rtx3080:6
+rtx3090:1
+rx6700:9
+Fri Jul 12 15:45:01 UTC 2024
+rtx3060:13
+rtx3070:10
+rtx3080:10
+rtx3090:10
+rx6700:7
+Fri Jul 12 15:46:01 UTC 2024
+rtx3060:1
+rtx3070:18
+rtx3080:18
+rtx3090:3
+rx6700:15
+Fri Jul 12 15:47:02 UTC 2024
+rtx3060:20
+rtx3070:4
+rtx3080:4
+rtx3090:14
+rx6700:6
+Fri Jul 12 15:48:01 UTC 2024
+rtx3060:10
+rtx3070:3
+rtx3080:3
+rtx3090:7
+rx6700:19
+Fri Jul 12 15:49:01 UTC 2024
+rtx3060:4
+rtx3070:14
+rtx3080:14
+rtx3090:11
+rx6700:13
+Fri Jul 12 15:50:01 UTC 2024
+rtx3060:6
+rtx3070:20
+rtx3080:20
+rtx3090:4
+rx6700:2
+Fri Jul 12 15:51:01 UTC 2024
+rtx3060:12
+rtx3070:5
+rtx3080:5
+rtx3090:8
+rx6700:13
+Fri Jul 12 15:52:01 UTC 2024
+rtx3060:13
+rtx3070:17
+rtx3080:17
+rtx3090:14
+rx6700:16
+Fri Jul 12 15:53:01 UTC 2024
+rtx3060:4
+rtx3070:13
+rtx3080:13
+rtx3090:18
+rx6700:12
+Fri Jul 12 15:54:01 UTC 2024
+rtx3060:6
+rtx3070:20
+rtx3080:20
+rtx3090:17
+rx6700:0
+Fri Jul 12 15:55:01 UTC 2024
+rtx3060:14
+rtx3070:7
+rtx3080:7
+rtx3090:1
+rx6700:14
+Fri Jul 12 15:56:01 UTC 2024
+rtx3060:8
+rtx3070:9
+rtx3080:9
+rtx3090:12
+rx6700:1
+Fri Jul 12 15:57:01 UTC 2024
+rtx3060:9
+rtx3070:6
+rtx3080:6
+rtx3090:1
+rx6700:4
+Fri Jul 12 15:58:02 UTC 2024
+rtx3060:19
+rtx3070:19
+rtx3080:19
+rtx3090:0
+rx6700:14
+Fri Jul 12 15:59:01 UTC 2024
+rtx3060:11
+rtx3070:0
+rtx3080:0
+rtx3090:12
+rx6700:4
+Fri Jul 12 16:00:01 UTC 2024
+rtx3060:16
+rtx3070:19
+rtx3080:19
+rtx3090:13
+rx6700:20
+Fri Jul 12 16:01:01 UTC 2024
+rtx3060:16
+rtx3070:18
+rtx3080:18
+rtx3090:8
+rx6700:2
+Fri Jul 12 16:02:01 UTC 2024
+rtx3060:18
+rtx3070:5
+rtx3080:5
+rtx3090:10
+rx6700:1
+Fri Jul 12 16:03:01 UTC 2024
+rtx3060:4
+rtx3070:4
+rtx3080:4
+rtx3090:15
+rx6700:10
+Fri Jul 12 16:04:01 UTC 2024
+rtx3060:5
+rtx3070:5
+rtx3080:5
+rtx3090:8
+rx6700:5
+Fri Jul 12 16:05:01 UTC 2024
+rtx3060:19
+rtx3070:11
+rtx3080:11
+rtx3090:1
+rx6700:5
+Fri Jul 12 16:06:01 UTC 2024
+rtx3060:3
+rtx3070:16
+rtx3080:16
+rtx3090:16
+rx6700:20
+Fri Jul 12 16:07:01 UTC 2024
+rtx3060:5
+rtx3070:19
+rtx3080:19
+rtx3090:16
+rx6700:2
+Fri Jul 12 16:08:01 UTC 2024
+rtx3060:15
+rtx3070:17
+rtx3080:17
+rtx3090:17
+rx6700:2
+Fri Jul 12 16:09:01 UTC 2024
+rtx3060:15
+rtx3070:12
+rtx3080:12
+rtx3090:19
+rx6700:20
+Fri Jul 12 16:10:01 UTC 2024
+rtx3060:19
+rtx3070:3
+rtx3080:3
+rtx3090:9
+rx6700:0
+Fri Jul 12 16:11:01 UTC 2024
+rtx3060:8
+rtx3070:9
+rtx3080:9
+rtx3090:8
+rx6700:11
+Fri Jul 12 16:12:01 UTC 2024
+rtx3060:20
+rtx3070:19
+rtx3080:19
+rtx3090:4
+rx6700:0
+Fri Jul 12 16:13:01 UTC 2024
+rtx3060:5
+rtx3070:6
+rtx3080:6
+rtx3090:3
+rx6700:18
+Fri Jul 12 16:14:01 UTC 2024
+rtx3060:14
+rtx3070:12
+rtx3080:12
+rtx3090:10
+rx6700:20
+Fri Jul 12 16:15:01 UTC 2024
+rtx3060:8
+rtx3070:19
+rtx3080:19
+rtx3090:10
+rx6700:6
+Fri Jul 12 16:16:01 UTC 2024
+rtx3060:15
+rtx3070:13
+rtx3080:13
+rtx3090:7
+rx6700:7
+Fri Jul 12 16:17:01 UTC 2024
+rtx3060:3
+rtx3070:5
+rtx3080:5
+rtx3090:9
+rx6700:18
+Fri Jul 12 16:18:01 UTC 2024
+rtx3060:14
+rtx3070:16
+rtx3080:16
+rtx3090:14
+rx6700:8
+Fri Jul 12 16:19:01 UTC 2024
+rtx3060:20
+rtx3070:9
+rtx3080:9
+rtx3090:11
+rx6700:7
+Fri Jul 12 16:20:01 UTC 2024
+rtx3060:16
+rtx3070:11
+rtx3080:11
+rtx3090:20
+rx6700:11
+Fri Jul 12 16:21:01 UTC 2024
+rtx3060:5
+rtx3070:4
+rtx3080:4
+rtx3090:6
+rx6700:12
+Fri Jul 12 16:22:01 UTC 2024
+rtx3060:14
+rtx3070:18
+rtx3080:18
+rtx3090:0
+rx6700:6
+Fri Jul 12 16:23:01 UTC 2024
+rtx3060:4
+rtx3070:8
+rtx3080:8
+rtx3090:8
+rx6700:10
+Fri Jul 12 16:24:01 UTC 2024
+rtx3060:15
+rtx3070:8
+rtx3080:8
+rtx3090:18
+rx6700:13
+Fri Jul 12 16:25:01 UTC 2024
+rtx3060:15
+rtx3070:19
+rtx3080:19
+rtx3090:4
+rx6700:15
+Fri Jul 12 16:26:01 UTC 2024
+rtx3060:17
+rtx3070:13
+rtx3080:13
+rtx3090:2
+rx6700:3
+Fri Jul 12 16:27:01 UTC 2024
+rtx3060:13
+rtx3070:6
+rtx3080:6
+rtx3090:4
+rx6700:3
+Fri Jul 12 16:28:01 UTC 2024
+rtx3060:17
+rtx3070:9
+rtx3080:9
+rtx3090:13
+rx6700:3
+Fri Jul 12 16:29:01 UTC 2024
+rtx3060:3
+rtx3070:14
+rtx3080:14
+rtx3090:4
+rx6700:7
+Fri Jul 12 16:30:01 UTC 2024
+rtx3060:0
+rtx3070:14
+rtx3080:14
+rtx3090:10
+rx6700:13
+Fri Jul 12 16:31:01 UTC 2024
+rtx3060:0
+rtx3070:6
+rtx3080:6
+rtx3090:19
+rx6700:5
+Fri Jul 12 16:32:01 UTC 2024
+rtx3060:11
+rtx3070:3
+rtx3080:3
+rtx3090:20
+rx6700:6
+Fri Jul 12 16:33:01 UTC 2024
+rtx3060:5
+rtx3070:8
+rtx3080:8
+rtx3090:4
+rx6700:3
+Fri Jul 12 16:34:01 UTC 2024
+rtx3060:7
+rtx3070:17
+rtx3080:17
+rtx3090:20
+rx6700:16
+Fri Jul 12 16:35:01 UTC 2024
+rtx3060:13
+rtx3070:12
+rtx3080:12
+rtx3090:13
+rx6700:5
+Fri Jul 12 16:36:01 UTC 2024
+rtx3060:11
+rtx3070:16
+rtx3080:16
+rtx3090:8
+rx6700:18
+Fri Jul 12 16:37:01 UTC 2024
+rtx3060:19
+rtx3070:14
+rtx3080:14
+rtx3090:10
+rx6700:7
+Fri Jul 12 16:38:01 UTC 2024
+rtx3060:0
+rtx3070:1
+rtx3080:1
+rtx3090:12
+rx6700:4
+Fri Jul 12 16:39:01 UTC 2024
+rtx3060:3
+rtx3070:0
+rtx3080:0
+rtx3090:8
+rx6700:13
+Fri Jul 12 16:40:01 UTC 2024
+rtx3060:2
+rtx3070:7
+rtx3080:7
+rtx3090:19
+rx6700:0
+Fri Jul 12 16:41:01 UTC 2024
+rtx3060:9
+rtx3070:16
+rtx3080:16
+rtx3090:5
+rx6700:15
+Fri Jul 12 16:42:01 UTC 2024
+rtx3060:7
+rtx3070:0
+rtx3080:0
+rtx3090:8
+rx6700:15
+Fri Jul 12 16:43:01 UTC 2024
+rtx3060:17
+rtx3070:3
+rtx3080:3
+rtx3090:5
+rx6700:5
+Fri Jul 12 16:44:01 UTC 2024
+rtx3060:4
+rtx3070:6
+rtx3080:6
+rtx3090:1
+rx6700:9
+Fri Jul 12 16:45:01 UTC 2024
+rtx3060:13
+rtx3070:10
+rtx3080:10
+rtx3090:10
+rx6700:7
+Fri Jul 12 16:46:01 UTC 2024
+rtx3060:1
+rtx3070:18
+rtx3080:18
+rtx3090:3
+rx6700:15
+Fri Jul 12 16:47:01 UTC 2024
+rtx3060:20
+rtx3070:4
+rtx3080:4
+rtx3090:14
+rx6700:6
+Fri Jul 12 16:48:01 UTC 2024
+rtx3060:10
+rtx3070:3
+rtx3080:3
+rtx3090:7
+rx6700:19
+Fri Jul 12 16:49:01 UTC 2024
+rtx3060:4
+rtx3070:14
+rtx3080:14
+rtx3090:11
+rx6700:13
+Fri Jul 12 16:50:01 UTC 2024
+rtx3060:6
+rtx3070:20
+rtx3080:20
+rtx3090:4
+rx6700:2
+Fri Jul 12 16:51:01 UTC 2024
+rtx3060:12
+rtx3070:5
+rtx3080:5
+rtx3090:8
+rx6700:13
+Fri Jul 12 16:52:01 UTC 2024
+rtx3060:13
+rtx3070:17
+rtx3080:17
+rtx3090:14
+rx6700:16
+Fri Jul 12 16:53:01 UTC 2024
+rtx3060:4
+rtx3070:13
+rtx3080:13
+rtx3090:18
+rx6700:12
+Fri Jul 12 16:54:01 UTC 2024
+rtx3060:6
+rtx3070:20
+rtx3080:20
+rtx3090:17
+rx6700:0
+Fri Jul 12 16:55:01 UTC 2024
+rtx3060:14
+rtx3070:7
+rtx3080:7
+rtx3090:1
+rx6700:14
+Fri Jul 12 16:56:01 UTC 2024
+rtx3060:8
+rtx3070:9
+rtx3080:9
+rtx3090:12
+rx6700:1
+Fri Jul 12 16:57:01 UTC 2024
+rtx3060:9
+rtx3070:6
+rtx3080:6
+rtx3090:1
+rx6700:4
+Fri Jul 12 16:58:01 UTC 2024
+rtx3060:19
+rtx3070:19
+rtx3080:19
+rtx3090:0
+rx6700:14
+Fri Jul 12 16:59:01 UTC 2024
+rtx3060:11
+rtx3070:0
+rtx3080:0
+rtx3090:12
+rx6700:4
+Fri Jul 12 17:00:01 UTC 2024
+rtx3060:16
+rtx3070:19
+rtx3080:19
+rtx3090:13
+rx6700:20
+Fri Jul 12 17:01:01 UTC 2024
+rtx3060:16
+rtx3070:18
+rtx3080:18
+rtx3090:8
+rx6700:2
+Fri Jul 12 17:02:01 UTC 2024
+rtx3060:18
+rtx3070:5
+rtx3080:5
+rtx3090:10
+rx6700:1
+Fri Jul 12 17:03:01 UTC 2024
+rtx3060:4
+rtx3070:4
+rtx3080:4
+rtx3090:15
+rx6700:10
+Fri Jul 12 17:04:01 UTC 2024
+rtx3060:5
+rtx3070:5
+rtx3080:5
+rtx3090:8
+rx6700:5
+Fri Jul 12 17:05:01 UTC 2024
+rtx3060:19
+rtx3070:11
+rtx3080:11
+rtx3090:1
+rx6700:5
+Fri Jul 12 17:06:01 UTC 2024
+rtx3060:3
+rtx3070:16
+rtx3080:16
+rtx3090:16
+rx6700:20
+Fri Jul 12 17:07:01 UTC 2024
+rtx3060:5
+rtx3070:19
+rtx3080:19
+rtx3090:16
+rx6700:2
+Fri Jul 12 17:08:01 UTC 2024
+rtx3060:15
+rtx3070:17
+rtx3080:17
+rtx3090:17
+rx6700:2
+Fri Jul 12 17:09:01 UTC 2024
+rtx3060:15
+rtx3070:12
+rtx3080:12
+rtx3090:19
+rx6700:20
+Fri Jul 12 17:10:01 UTC 2024
+rtx3060:19
+rtx3070:3
+rtx3080:3
+rtx3090:9
+rx6700:0
+Fri Jul 12 17:11:01 UTC 2024
+rtx3060:8
+rtx3070:9
+rtx3080:9
+rtx3090:8
+rx6700:11
+Fri Jul 12 17:12:01 UTC 2024
+rtx3060:20
+rtx3070:19
+rtx3080:19
+rtx3090:4
+rx6700:0
+Fri Jul 12 17:13:02 UTC 2024
+rtx3060:5
+rtx3070:6
+rtx3080:6
+rtx3090:3
+rx6700:18
+Fri Jul 12 17:14:01 UTC 2024
+rtx3060:14
+rtx3070:12
+rtx3080:12
+rtx3090:10
+rx6700:20
+Fri Jul 12 17:15:01 UTC 2024
+rtx3060:8
+rtx3070:19
+rtx3080:19
+rtx3090:10
+rx6700:6
+Fri Jul 12 17:16:01 UTC 2024
+rtx3060:15
+rtx3070:13
+rtx3080:13
+rtx3090:7
+rx6700:7
+Fri Jul 12 17:17:01 UTC 2024
+rtx3060:3
+rtx3070:5
+rtx3080:5
+rtx3090:9
+rx6700:18
+Fri Jul 12 17:18:01 UTC 2024
+rtx3060:14
+rtx3070:16
+rtx3080:16
+rtx3090:14
+rx6700:8
+Fri Jul 12 17:19:01 UTC 2024
+rtx3060:20
+rtx3070:9
+rtx3080:9
+rtx3090:11
+rx6700:7
+Fri Jul 12 17:20:01 UTC 2024
+rtx3060:16
+rtx3070:11
+rtx3080:11
+rtx3090:20
+rx6700:11
+Fri Jul 12 17:21:01 UTC 2024
+rtx3060:5
+rtx3070:4
+rtx3080:4
+rtx3090:6
+rx6700:12
+Fri Jul 12 17:22:01 UTC 2024
+rtx3060:14
+rtx3070:18
+rtx3080:18
+rtx3090:0
+rx6700:6
+Fri Jul 12 17:23:01 UTC 2024
+rtx3060:4
+rtx3070:8
+rtx3080:8
+rtx3090:8
+rx6700:10
+Fri Jul 12 17:24:01 UTC 2024
+rtx3060:15
+rtx3070:8
+rtx3080:8
+rtx3090:18
+rx6700:13
+Fri Jul 12 17:25:01 UTC 2024
+rtx3060:15
+rtx3070:19
+rtx3080:19
+rtx3090:4
+rx6700:15
+Fri Jul 12 17:26:01 UTC 2024
+rtx3060:17
+rtx3070:13
+rtx3080:13
+rtx3090:2
+rx6700:3
+Fri Jul 12 17:27:01 UTC 2024
+rtx3060:13
+rtx3070:6
+rtx3080:6
+rtx3090:4
+rx6700:3
+Fri Jul 12 17:28:01 UTC 2024
+rtx3060:17
+rtx3070:9
+rtx3080:9
+rtx3090:13
+rx6700:3
+Fri Jul 12 17:29:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:30:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:31:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:32:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:33:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:34:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:35:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:36:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:37:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:38:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:39:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:40:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:41:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:42:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:43:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:44:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:45:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:46:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:47:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:48:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:49:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:50:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:51:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:52:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:53:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:54:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:55:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:56:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:57:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:58:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 17:59:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 18:00:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 18:01:02 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 18:02:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 18:03:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 18:04:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 18:05:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 18:06:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Fri Jul 12 18:07:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:20:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:21:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:22:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:23:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:24:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:25:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:26:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:27:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:28:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:29:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:30:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:31:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:32:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:33:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:34:02 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:35:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:36:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:37:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:38:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:39:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:40:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:41:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:42:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:43:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:44:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:45:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:46:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:47:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:48:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:49:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:50:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:51:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:52:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:53:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:54:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:55:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:56:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:57:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:58:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 09:59:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:00:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:01:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:02:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:03:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:04:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:05:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:06:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:07:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:08:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:09:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:10:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:11:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:12:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:13:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:14:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:15:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:16:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:17:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:18:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:19:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:20:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:21:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:22:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:23:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:24:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:25:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:26:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:27:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:28:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:29:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:30:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:31:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:32:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:33:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sat Jul 13 10:34:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sun Jul 14 07:32:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sun Jul 14 07:33:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sun Jul 14 07:34:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sun Jul 14 07:35:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sun Jul 14 07:36:02 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sun Jul 14 07:37:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sun Jul 14 07:38:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sun Jul 14 07:39:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Sun Jul 14 07:40:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:33:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:34:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:35:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:36:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:37:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:38:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:39:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:40:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:41:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:42:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:43:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:44:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:45:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:46:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:47:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:48:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:49:02 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:50:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:51:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:52:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:53:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:54:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:55:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:56:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:57:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:58:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 08:59:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 09:00:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:08:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:09:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:10:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:11:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:12:02 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:13:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:14:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:15:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:16:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:17:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:18:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:19:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:20:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:21:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:22:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:23:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:24:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:25:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:26:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:27:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:28:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:29:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:30:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:31:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:32:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:33:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:34:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:35:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:36:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:37:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:38:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:39:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:40:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:41:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:42:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:43:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:44:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:45:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:46:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:47:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:48:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:49:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:50:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:51:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:52:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:53:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:54:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:55:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:56:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:57:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:58:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 10:59:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:00:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:01:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:02:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:03:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:04:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:05:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:06:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:07:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:08:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:09:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:10:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:11:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:12:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:13:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:14:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:15:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:16:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:17:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:18:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:19:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:20:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:21:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:22:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:23:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:24:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:25:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:26:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:27:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:28:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:29:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:30:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:31:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:32:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:33:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:34:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:35:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:36:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:37:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:38:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:39:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:40:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:41:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:42:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:43:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:44:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:45:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:46:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:47:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:48:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:49:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:50:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:51:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:52:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:53:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:54:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:55:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:56:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:57:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:58:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 11:59:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 12:00:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 12:01:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 12:02:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 12:03:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 12:04:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 12:05:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 12:06:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 12:07:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 12:08:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 12:09:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 12:10:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 12:11:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 12:12:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 12:13:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 12:14:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 12:15:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 12:16:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 12:17:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 12:18:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 12:19:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Mon Jul 15 12:20:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:05:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:06:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:07:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:08:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:09:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:10:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:11:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:12:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:13:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:14:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:15:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:16:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:17:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:18:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:19:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:20:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:21:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:22:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:23:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:24:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:25:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:26:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:27:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:28:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:29:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:30:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:31:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:32:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:33:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:34:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:35:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:36:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:37:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:38:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:39:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:40:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:41:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:42:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:43:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:44:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:45:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:46:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:47:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:48:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:49:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:50:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:51:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:52:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:53:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:54:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:55:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:56:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:57:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:58:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 07:59:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 08:00:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 08:01:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 08:02:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 08:03:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 08:04:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 08:05:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 08:06:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 08:07:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 08:08:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 08:09:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 08:10:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 08:11:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 08:12:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 08:13:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 08:14:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 08:15:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:
+Tue Jul 16 08:16:01 UTC 2024
+rtx3060:
+rtx3070:
+rtx3080:
+rtx3090:
+rx6700:

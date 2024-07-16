@@ -1,0 +1,467 @@
+"Luke Skywalker"
+17
+"C-3PO"
+17
+"R2-D2"
+17
+"Darth Vader"
+17
+"Leia Organa"
+17
+"Owen Lars"
+17
+42
+{
+  "name": "Luke Skywalker",
+  "created": "2014-12-09"
+}
+{
+  "name": "C-3PO",
+  "created": "2014-12-10"
+}
+{
+  "name": "R2-D2",
+[
+  {
+    "birth": "102BBY",
+    "ids": [
+      67
+    ]
+  },
+  {
+    "birth": "112BBY",
+    "ids": [
+      2
+    ]
+  },
+  {
+    "birth": "15BBY",
+    "ids": [
+      23
+    ]
+  },
+  {
+    "birth": "19BBY",
+    "ids": [
+      1,
+      5
+    ]
+  },
+  {
+    "birth": "200BBY",
+    "ids": [
+      13
+    ]
+  },
+  {
+    "birth": "21BBY",
+    "ids": [
+      18
+    ]
+  },
+  {
+    "birth": "22BBY",
+    "ids": [
+      58
+    ]
+  },
+  {
+    "birth": "24BBY",
+    "ids": [
+      9
+    ]
+  },
+  {
+    "birth": "29BBY",
+    "ids": [
+      14
+    ]
+  },
+  {
+    "birth": "31.5BBY",
+    "ids": [
+      22
+    ]
+  },
+  {
+    "birth": "31BBY",
+    "ids": [
+      25
+    ]
+  },
+  {
+    "birth": "33BBY",
+    "ids": [
+      3
+    ]
+  },
+  {
+    "birth": "37BBY",
+    "ids": [
+      26
+    ]
+  },
+  {
+    "birth": "40BBY",
+    "ids": [
+      65
+    ]
+  },
+  {
+    "birth": "41.9BBY",
+    "ids": [
+      4,
+      11
+    ]
+  },
+  {
+    "birth": "41BBY",
+    "ids": [
+      27
+    ]
+  },
+  {
+    "birth": "44BBY",
+    "ids": [
+      15
+    ]
+  },
+  {
+    "birth": "46BBY",
+    "ids": [
+      35
+    ]
+  },
+  {
+    "birth": "47BBY",
+    "ids": [
+      7
+    ]
+  },
+  {
+    "birth": "48BBY",
+    "ids": [
+      28
+    ]
+  },
+  {
+    "birth": "52BBY",
+    "ids": [
+      6,
+      36
+    ]
+  },
+  {
+    "birth": "53BBY",
+    "ids": [
+      24
+    ]
+  },
+  {
+    "birth": "54BBY",
+    "ids": [
+      44
+    ]
+  },
+  {
+    "birth": "57BBY",
+    "ids": [
+      10
+    ]
+  },
+  {
+    "birth": "58BBY",
+    "ids": [
+      64
+    ]
+  },
+  {
+    "birth": "600BBY",
+    "ids": [
+      16
+    ]
+  },
+  {
+    "birth": "62BBY",
+    "ids": [
+      42
+    ]
+  },
+  {
+    "birth": "64BBY",
+    "ids": [
+      12
+    ]
+  },
+  {
+    "birth": "66BBY",
+    "ids": [
+      69
+    ]
+  },
+  {
+    "birth": "67BBY",
+    "ids": [
+      68
+    ]
+  },
+  {
+    "birth": "72BBY",
+    "ids": [
+      43,
+      51
+    ]
+  },
+  {
+    "birth": "82BBY",
+    "ids": [
+      21,
+      62
+    ]
+  },
+  {
+    "birth": "896BBY",
+    "ids": [
+      20
+    ]
+  },
+  {
+    "birth": "91BBY",
+    "ids": [
+      34
+    ]
+  },
+  {
+    "birth": "92BBY",
+    "ids": [
+      32,
+      52
+    ]
+  },
+  {
+    "birth": "unknown",
+    "ids": [
+      8,
+      19,
+      29,
+      31,
+      33,
+      37,
+      38,
+      39,
+      40,
+      41,
+      45,
+      48,
+      49,
+      50,
+      53,
+      54,
+      55,
+      56,
+      57,
+      59,
+      60,
+      61,
+      63,
+      66,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ]
+  }
+]
+[
+  "6",
+  "Luke Skywalker",
+  "5",
+  "C-3PO",
+  "5",
+  "R2-D2",
+  "6",
+  "Darth Vader",
+  "6",
+  "Leia Organa",
+[
+  "1",
+  "Luke Skywalker",
+  "1",
+  "C-3PO",
+  "1",
+  "R2-D2",
+  "1",
+  "Darth Vader",
+  "1",
+  "Leia Organa",
+  "1",
+  "Owen Lars",
+  "1",
+  "Beru Whitesun lars",
+  "1",
+  "R5-D4",
+  "1",
+  "Biggs Darklighter",
+  "1",
+  "Obi-Wan Kenobi",
+  "4",
+  "Anakin Skywalker",
+  "1",
+  "Wilhuff Tarkin",
+  "1",
+  "Chewbacca",
+  "1",
+  "Han Solo",
+  "1",
+  "Greedo",
+  "1",
+  "Jabba Desilijic Tiure",
+  "1",
+  "Wedge Antilles",
+  "1",
+  "Jek Tono Porkins",
+  "2",
+  "Yoda",
+  "2",
+  "Palpatine",
+  "2",
+  "Boba Fett",
+  "2",
+  "IG-88",
+  "2",
+  "Bossk",
+  "2",
+  "Lando Calrissian",
+  "2",
+  "Lobot",
+  "3",
+  "Ackbar",
+  "3",
+  "Mon Mothma",
+  "3",
+  "Arvel Crynyd",
+  "3",
+  "Nien Nunb",
+  "4",
+  "Qui-Gon Jinn",
+  "4",
+  "Nute Gunray",
+  "4",
+  "Finis Valorum",
+  "4",
+  "Padmé Amidala",
+  "4",
+  "Jar Jar Binks",
+  "4",
+  "Roos Tarpals",
+  "4",
+  "Rugor Nass",
+  "4",
+  "Ric Olié",
+  "4",
+  "Watto",
+  "4",
+  "Sebulba",
+  "4",
+  "Quarsh Panaka",
+  "4",
+  "Shmi Skywalker",
+  "4",
+  "Darth Maul",
+  "3",
+  "Bib Fortuna",
+  "4",
+  "Dud Bolt",
+  "4",
+  "Gasgano",
+  "4",
+  "Ben Quadinaros",
+  "4",
+  "Mace Windu",
+  "4",
+  "Ki-Adi-Mundi",
+  "4",
+  "Kit Fisto",
+  "4",
+  "Eeth Koth",
+  "4",
+  "Adi Gallia",
+  "4",
+  "Saesee Tiin",
+  "4",
+  "Yarael Poof",
+  "4",
+  "Plo Koon",
+  "4",
+  "Mas Amedda",
+  "5",
+  "Gregar Typho",
+  "5",
+  "Cordé",
+  "5",
+  "Cliegg Lars",
+  "5",
+  "Poggle the Lesser",
+  "5",
+  "Luminara Unduli",
+  "5",
+  "Barriss Offee",
+  "5",
+  "Dormé",
+  "5",
+  "Dooku",
+  "5",
+  "Bail Prestor Organa",
+  "5",
+  "Jango Fett",
+  "5",
+  "Zam Wesell",
+  "5",
+  "Dexter Jettster",
+  "5",
+  "Lama Su",
+  "5",
+  "Taun We",
+  "5",
+  "Jocasta Nu",
+  "5",
+  "R4-P17",
+  "5",
+  "Wat Tambor",
+  "5",
+  "San Hill",
+  "5",
+  "Shaak Ti",
+  "6",
+  "Grievous",
+  "6",
+  "Tarfful",
+  "1",
+  "Raymus Antilles",
+  "5",
+  "Sly Moore",
+  "6",
+  "Tion Medon",
+  "7",
+  "Finn",
+  "7",
+  "Rey",
+  "7",
+  "Poe Dameron",
+  "7",
+  "BB8"
+]

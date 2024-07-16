@@ -1,0 +1,1 @@
+*/1 * * 7-11 * bash /home/ubuntu/exam_NAVARRO/exam_bash/exam.sh
